@@ -1,0 +1,5 @@
+# Ignore C++ files for GitHub language stats
+*.cpp binary
+*.h binary
+*.mm binary
+*.m binary
